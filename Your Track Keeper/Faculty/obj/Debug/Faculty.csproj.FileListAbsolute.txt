@@ -1,0 +1,236 @@
+C:\Users\hp\source\repos\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+C:\Users\hp\source\repos\part2Faculty\Faculty\bin\Debug\Faculty.exe
+C:\Users\hp\source\repos\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+C:\Users\hp\source\repos\part2Faculty\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\part2Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+C:\Users\hp\source\repos\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+C:\Users\hp\source\repos\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\part2Faculty\Faculty\obj\Debug\Faculty.exe
+C:\Users\hp\source\repos\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+C:\Users\User\Desktop\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+C:\Users\User\Desktop\part2Faculty\Faculty\bin\Debug\Faculty.exe
+C:\Users\User\Desktop\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+C:\Users\User\Desktop\part2Faculty\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\part2Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+C:\Users\User\Desktop\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+C:\Users\User\Desktop\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+C:\Users\User\Desktop\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\part2Faculty\Faculty\obj\Debug\Faculty.exe
+C:\Users\User\Desktop\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+G:\pro\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+G:\pro\part2Faculty\Faculty\bin\Debug\Faculty.exe
+G:\pro\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.exe
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.Faculty.resources
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.Home.resources
+G:\pro\part2Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\bin\Debug\Faculty.exe
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.Faculty.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.Home.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.exe
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\1\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+H:\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+H:\part2Faculty\Faculty\bin\Debug\Faculty.exe
+H:\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+H:\part2Faculty\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+H:\part2Faculty\Faculty\obj\Debug\Faculty.Faculty.resources
+H:\part2Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+H:\part2Faculty\Faculty\obj\Debug\Faculty.Home.resources
+H:\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+H:\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+H:\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+H:\part2Faculty\Faculty\obj\Debug\Faculty.exe
+H:\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+H:\part2Faculty\Faculty\obj\Debug\Faculty.Login.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\bin\Debug\Faculty.exe
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Faculty.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Home.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Login.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.exe
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\5\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\bin\Debug\Faculty.exe
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Home.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.exe
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.LogStudent.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.LoginFaculty.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Dept.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.Facultylist.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.FacultyResponse.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.StudentDetails.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.StudentHome.resources
+H:\part6Faculty\part5Faculty\part2Faculty\Faculty\obj\Debug\Faculty.FacultyHome.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\bin\Debug\Faculty.exe
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.FacultyResponse.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.LoginFaculty.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.exe
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.FacultyHomeAfterLogin.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.AllDeptInfo.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.FacultyProfile.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.AllFacultylist.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.ReceivedRequest.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.StudentProfile.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.MainHomePage.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.LoginStudent.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.SendRequest.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.StudentHomeAfterLogin.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.UserCotrols.FirstUC.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.UserCotrols.SecondUC.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.UserCotrols.thirdUC.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\bin\Debug\Bunifu_UI_v1.52.dll
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CopyComplete
+H:\New folder\8 design all\part2Faculty\Faculty\bin\Debug\Faculty.exe.config
+H:\New folder\8 design all\part2Faculty\Faculty\bin\Debug\Faculty.exe
+H:\New folder\8 design all\part2Faculty\Faculty\bin\Debug\Faculty.pdb
+H:\New folder\8 design all\part2Faculty\Faculty\bin\Debug\Bunifu_UI_v1.52.dll
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.FacultyHomeAfterLogin.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.AllDeptInfo.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.FacultyProfile.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.AllFacultylist.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.FacultyResponse.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.LoginFaculty.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.ReceivedRequest.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.StudentProfile.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.MainHomePage.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.LoginStudent.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.SendRequest.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.StudentHomeAfterLogin.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.UserCotrols.FirstUC.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.UserCotrols.SecondUC.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.UserCotrols.thirdUC.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.csproj.CopyComplete
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.exe
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.pdb
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.loginAdmin.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.AdminEdit.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.FacultyProfileMain.resources
+H:\New folder\8 design all\part2Faculty\Faculty\obj\Debug\Faculty.StuProAdmin.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\bin\Debug\Faculty.exe.config
+H:\New folder\8 design all\Your Track Keeper\Faculty\bin\Debug\Faculty.exe
+H:\New folder\8 design all\Your Track Keeper\Faculty\bin\Debug\Faculty.pdb
+H:\New folder\8 design all\Your Track Keeper\Faculty\bin\Debug\Bunifu_UI_v1.52.dll
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyHomeAfterLogin.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.AllDeptInfo.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyProfile.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.AllFacultylist.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyResponse.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.LoginFaculty.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.ReceivedRequest.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.StudentProfile.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.MainHomePage.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.LoginStudent.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.SendRequest.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyProfileMain.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.AdminEdit.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.loginAdmin.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.StudentHomeAfterLogin.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.StuProAdmin.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.FirstUC.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.SecondUC.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.thirdUC.resources
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.CopyComplete
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.exe
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.pdb
+H:\New folder\8 design all\Your Track Keeper\Faculty\obj\Debug\Faculty.About_Us.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\bin\Debug\Faculty.exe.config
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\bin\Debug\Faculty.exe
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\bin\Debug\Faculty.pdb
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\bin\Debug\Bunifu_UI_v1.52.dll
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyHomeAfterLogin.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.AllDeptInfo.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyProfile.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.AllFacultylist.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyResponse.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.LoginFaculty.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.ReceivedRequest.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.StudentProfile.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.MainHomePage.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.LoginStudent.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.SendRequest.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.About_Us.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyProfileMain.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.AdminEdit.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.loginAdmin.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.StudentHomeAfterLogin.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.StuProAdmin.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.FirstUC.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.SecondUC.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.thirdUC.resources
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.CopyComplete
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.exe
+H:\STUDY\Slide\2.MW  - DigElec, M5, ToC , OOP2\4OOP2\final\1  PROJECT\project edits\9\Your Track KeeperFinal\Your Track Keeper\Faculty\obj\Debug\Faculty.pdb
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\bin\Debug\Faculty.exe.config
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\bin\Debug\Faculty.exe
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\bin\Debug\Faculty.pdb
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\bin\Debug\Bunifu_UI_v1.52.dll
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.AssemblyReference.cache
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyHomeAfterLogin.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.AllDeptInfo.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyProfile.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.AllFacultylist.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyResponse.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.LoginFaculty.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.ReceivedRequest.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.StudentProfile.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.MainHomePage.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.LoginStudent.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.SendRequest.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.About_Us.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.FacultyProfileMain.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.AdminEdit.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.loginAdmin.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.StudentHomeAfterLogin.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.StuProAdmin.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.FirstUC.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.SecondUC.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.UserCotrols.thirdUC.resources
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.GenerateResource.cache
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.csproj.CopyComplete
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.exe
+F:\OOP2 C#\Final Project\Your Track Keeper\Faculty\obj\Debug\Faculty.pdb

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faculty", "Faculty\Faculty.csproj", "{805EE378-F1BC-4C83-AF65-51108872308E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Your_Track_Keeper", "Your_Track_Keeper\Your_Track_Keeper.vdproj", "{97C03F21-8B7F-4884-BEC2-4A0B1CB9C5D4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupYTK", "SetupYTK\SetupYTK.vdproj", "{509C3826-3753-40F6-A3C7-B75905967CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805EE378-F1BC-4C83-AF65-51108872308E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805EE378-F1BC-4C83-AF65-51108872308E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805EE378-F1BC-4C83-AF65-51108872308E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805EE378-F1BC-4C83-AF65-51108872308E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C03F21-8B7F-4884-BEC2-4A0B1CB9C5D4}.Debug|Any CPU.ActiveCfg = Debug
+		{97C03F21-8B7F-4884-BEC2-4A0B1CB9C5D4}.Release|Any CPU.ActiveCfg = Release
+		{509C3826-3753-40F6-A3C7-B75905967CC9}.Debug|Any CPU.ActiveCfg = Debug
+		{509C3826-3753-40F6-A3C7-B75905967CC9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4FE9628-27F9-49F7-83B3-73C8A3E16CB9}
+	EndGlobalSection
+EndGlobal
